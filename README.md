@@ -217,7 +217,7 @@ Evaluate:
 - [ ] Cloud deployment
 - [ ] Multi-tenant support
 
-## Resume Value
+##  Value
 
 This project demonstrates:
 
